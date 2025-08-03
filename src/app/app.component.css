@@ -32,3 +32,59 @@
   .custom-block-ui h5 {
     margin-top: 10px;
   } */
+/* new custom */
+  /* .app-content {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .custom-block-ui {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1050;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(42, 143, 251, 0.1); 
+    backdrop-filter: blur(4px);
+  }
+
+  .spinner-container {
+    background: linear-gradient(135deg, #3a8ddb, #66b2ff);
+    color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    min-width: 280px;
+    max-width: 90%;
+  }
+
+  .spinner-container i.fa {
+    font-size: 48px;
+    margin-bottom: 16px;
+  }
+
+  .spinner-container p {
+    font-size: 18px;
+    margin: 0;
+    font-weight: 500;
+  }
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  button:hover {
+    background-color: #0678f3;
+  } */
