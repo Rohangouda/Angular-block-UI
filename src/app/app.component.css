@@ -2,3 +2,33 @@
     text-align: center;
     margin-top: 100px;
   }
+
+
+  /* .container {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .custom-block-ui {
+    z-index: 1011;
+    position: fixed;
+    padding: 2px;
+    margin: 0;
+    width: 30%;
+    top: 40%;
+    left: 35%;
+    text-align: center;
+    color: white;
+    background-color: rgb(13, 110, 179);
+    border-radius: 5px;
+    opacity: 0.5;
+    cursor: wait;
+  }
+
+  .custom-block-ui i {
+    margin-bottom: 10px;
+  }
+
+  .custom-block-ui h5 {
+    margin-top: 10px;
+  } */
